@@ -1,1 +1,2 @@
-TinDog Website:- Using HTML,CSS,BOOTSTRAP
+# TinDog Website
+Using HTML,CSS,BOOTSTRAP
